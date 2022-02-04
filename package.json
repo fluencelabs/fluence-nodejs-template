@@ -1,0 +1,20 @@
+{
+    "name": "fluence-nodejs-template",
+    "version": "0.0.1",
+    "description": "Template project for Fluence in nodejs",
+    "main": "index.js",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/fluencelabs/fluence-nodejs-template.git"
+    },
+    "author": "Fluence Labs",
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/fluencelabs/fluence-nodejs-template/issues"
+    },
+    "homepage": "https://github.com/fluencelabs/fluence-nodejs-template#readme",
+    "devDependencies": {
+        "typescript": "^4.0.0"
+    }
+}
