@@ -1,0 +1,3 @@
+module Export
+import getRelayTimestamp from "hello-world"
+export getRelayTimestamp

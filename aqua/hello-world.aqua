@@ -1,0 +1,8 @@
+module HelloWorld declares getRelayTimestamp
+
+import "@fluencelabs/aqua-lib/builtin.aqua"
+
+func getRelayTimestamp() -> u64:
+    on HOST_PEER_ID:
+        ts <- Peer.timestamp_ms()
+    <- ts
