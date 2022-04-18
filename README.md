@@ -1,13 +1,12 @@
-# Moscow blockchain hackathon tutorial
+# Fluence JS Scaffolding Template
 
 Template for FluenceJS applications running on nodejs.
 
 Useful resources:
 
--   [How to hack on Fluence](https://cutt.ly/HackMoscow)
--   [Aqua documentation](https://doc.fluence.dev/aqua-book/)
--   [FluenceJS documentation](https://doc.fluence.dev/docs/fluence-js)
--   [More examples](https://github.com/fluencelabs/examples)
+- [Aqua documentation](https://doc.fluence.dev/aqua-book/)
+- [FluenceJS documentation](https://doc.fluence.dev/docs/fluence-js)
+- [More examples](https://github.com/fluencelabs/examples)
 
 ## Prerequisites
 
@@ -51,4 +50,4 @@ All aqua code is placed in `aqua` directory. The TypeScript files are located in
 
 ## Using FluenceJS in browser
 
-You are free to use the UI framework of your choosing. Bootstrap the application and then install the same dependencies and set up the compiler. You can also refer to the [related documentation](https://doc.fluence.dev/docs/fluence-js/2_basics) section. Also you need to configure the http server, hosting you application code to serve additional files. You can read about it in the (documentation)[https://doc.fluence.dev/docs/fluence-js/4_run_in_browser-1]
+You are free to use the UI framework of your choosing. Bootstrap the application and then install the same dependencies and set up the compiler. You can also refer to the [related documentation](https://doc.fluence.dev/docs/fluence-js/2_basics) section. Also you need to configure the http server, hosting you application code to serve additional files. You can read about it in the [documentation][https://doc.fluence.dev/docs/fluence-js/4_run_in_browser-1]
