@@ -1,4 +1,4 @@
-# Moscow blockchain hackathon tutorial
+# Fluence JS Scaffolding Template
 
 Template for FluenceJS applications running on nodejs.
 
